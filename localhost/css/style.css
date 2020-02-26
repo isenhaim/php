@@ -1,0 +1,38 @@
+body {
+    margin: auto; 
+    width: 700;
+    background-color: #0b1c30;
+    color: #fff;  
+} 
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.form-control {
+    margin-top: 10px;
+}
+
+button {
+   margin-top: 20px;
+} 
+
+label {
+    color: #fff;
+}
+
+.col-sm-10 {
+    text-align: left;
+}
+
+.example-container {
+    margin: auto;
+    width: 80%;
+}
+
+.nm {
+    margin-top: 0px;
+}
